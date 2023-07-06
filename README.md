@@ -13,4 +13,11 @@ C:\Users\Ybenallal\Documents\clean_code> conda activate exampleproject
 ```
 (exampleproject) C:\Users\Ybenallal\Documents\clean_code>pip install cookiecutter
 ```
-4. Create a project based on a template :
+4. Create a project based on a template (you will be asked to fill project_name - authorname...) :
+```shell
+(exampleproject) C:\Users\Ybenallal\Documents\clean_code>cookiecutter https://github.com/khuyentran1401/data-science-template --checkout dvc-poetry
+directory_name [project-name]: myproject
+author_name [Your Name]: youssef595
+compatible_python_versions [^3.8]:
+```
+5. Install dependancies :
