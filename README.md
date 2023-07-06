@@ -20,4 +20,6 @@ directory_name [project-name]: myproject
 author_name [Your Name]: youssef595
 compatible_python_versions [^3.8]:
 ```
-5. Install dependancies :
+-----> This will create the following code structure (the tools used will be explained below)
+![image](https://github.com/youssef595/DS--cleancode_structure/assets/56879680/adf29b05-07ab-4e29-8322-0b1244bb3397)
+
